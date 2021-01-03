@@ -42,9 +42,6 @@ public class ConnectionHandler extends Thread {
         }catch(Exception e){
 
         }
-
     }
-
-
 }
 
