@@ -1,0 +1,6 @@
+HTTP/1.0 400 
+Server: Our server/1.0 
+Content-Type: text/html 
+Connection: close 
+Content-Length: 0 
+

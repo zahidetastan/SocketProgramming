@@ -1,0 +1,7 @@
+HTTP/1.0 200 
+Server: Our server/1.0 
+Content-Type: text/html 
+Connection: close 
+Content-Length: 98 
+
+<HTML><HEAD><TITLE> I am 100 bytes long</TITLE><BODY>aaaaaaaaaaaaaaaaaaaaaaaa</BODY></HEAD></HTML>
